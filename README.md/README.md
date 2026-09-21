@@ -177,6 +177,7 @@ Output:
 `data/delay_predictions.csv`
 
 ## Power BI Dashboard
+![Power BI Dashboard](images/powerbi-dashboard.png)
 
 The Power BI dashboard provides an interactive view of vessel performance and operational data.
 
